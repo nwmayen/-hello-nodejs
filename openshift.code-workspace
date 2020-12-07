@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../DO101-apps"
 		}
 	],
 	"settings": {}
